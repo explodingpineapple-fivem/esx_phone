@@ -7,17 +7,17 @@
 
 ### Using [fvm](https://github.com/qlaffont/fvm-installer)
 ```
-fvm install --save --folder=esx esx-org/esx_phone
+fvm install --save --folder=esx explodingpineapple-fivem/esx_phone
 ```
 
 ### Using Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/esx_phone [esx]/esx_phone
+git clone https://github.com/explodingpineapple-fivem/esx_phone [esx]/esx_phone
 ```
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_phone/archive/master.zip
+- Download https://github.com/explodingpineapple-fivem/esx_phone/archive/master.zip
 - Put it in the `[esx]` directory
 
 - Import `esx_phone.sql` in your database
